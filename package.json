@@ -1,0 +1,17 @@
+{
+  "name": "de-bruijn",
+  "version": "1.0.0",
+  "description": "A project for working with de Bruijn indices",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["de bruijn", "lambda calculus", "compiler"],
+  "author": "Lorenzo",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
